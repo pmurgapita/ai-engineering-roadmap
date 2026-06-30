@@ -1,6 +1,6 @@
 ## Embedding
 
-Pendiente de estudiar.
+Un embedding es una representación numérica de algo, normalmente en forma de vector, que intenta conservar información útil sobre su significado.
 
 ---
 
