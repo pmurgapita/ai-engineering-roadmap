@@ -31,3 +31,31 @@ Generalizar es ser capaz de resolver correctamente casos que nunca se han visto 
 ## Patrón
 
 Un patrón es una regularidad que encontramos que nos ayuda a hacer una predicción o una generalización.
+
+## Distancia euclidea
+
+La distancia euclídea es la distancia geométrica clásica entre dos puntos.
+
+---
+
+# Similitud coseno
+
+La similitud coseno mide si dos vectores apuntan en una dirección parecida.
+
+---
+
+# Búsqueda semántica
+
+Una búsqueda semántica compara significados.
+
+---
+
+# Espacio vectorial
+
+Un espacio vectorial es un espacio matemático donde podemos colocar vectores.
+
+---
+
+# RAG
+
+RAG significa Retrieval-Augmented Generation.
